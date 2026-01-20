@@ -66,6 +66,6 @@ These are merged and cleaned for the recommendation model.
 
 Pull requests are welcome! If you have ideas, found bugs, or want to contribute in any way, feel free to open an issue or submit a pull request. 
 
-You can also connect with me on [LinkedIn](https://www.linkedin.com/in/yogeshwaran-k-363800210/) to discuss or share feedback. 😊
+You can also connect with me on [LinkedIn](https://www.linkedin.com/in/anagh-anoop-b116aa306/) to discuss or share feedback. 😊
 
 
