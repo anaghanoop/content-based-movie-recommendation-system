@@ -55,8 +55,8 @@ These are merged and cleaned for the recommendation model.
 - Recommends movies based on user selection.
 
 ## 📸 Preview
-![UI Preview](assets/image.png)
-![Another Preview](assets/ui.jpg)
+![UI Preview](image.png)
+![Another Preview](ui.jpg)
 
 
 
